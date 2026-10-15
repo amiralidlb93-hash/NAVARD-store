@@ -4,7 +4,7 @@
 
 ## لایو دمو
 
-https://YOUR-USERNAME.github.io/navard/
+**[enter the live demo!](https://amiralidlb93-hash.github.io/NAVARD-store/)**
 
 ## اجرا روی سیستم لوکال
 
